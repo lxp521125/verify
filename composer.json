@@ -1,0 +1,16 @@
+{
+    "name": "XP/TikuVerify",
+    "authors": [
+        {
+            "name": "xp.lei",
+            "email": "xpwork2017@163.com"
+        }
+      ],
+     "minimum-stability": "stable",
+     "autoload":{
+            "psr-4": {"XP\\": "src/"}
+      },
+      "require": {
+        
+      }
+}
