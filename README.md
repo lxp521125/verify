@@ -62,3 +62,12 @@
  *
  * @author      xiaopeng.lei 2016年4月29日11:51:47
  */
+
+使用方法：
+---
+在composer.json中指定项目位置
+
+主要是基于thingphp制作的参数验证层。
+
+
+
